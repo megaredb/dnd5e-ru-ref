@@ -34,8 +34,8 @@
 	//Extensions
 	"markdoc.experimental": true,
 	"editor.codeActionsOnSave": {
-		"source.organizeImports": false,
-		"source.organizeImports.rome": true
+		"source.organizeImports": "never",
+		"source.organizeImports.rome": "explicit"
 	},
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 
